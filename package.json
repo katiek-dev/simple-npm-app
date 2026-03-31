@@ -1,0 +1,14 @@
+{
+  "name": "npmapp",
+  "version": "1.0.0",
+  "description": "simple sample app to get used to using NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katie Keller",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.20"
+  }
+}
