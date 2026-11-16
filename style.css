@@ -1,0 +1,44 @@
+/* General page styling */
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #e9ecef;
+    margin: 0;
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Calculator container */
+.container {
+    background-color: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    min-width: 300px;
+}
+
+/* Heading */
+h1 {
+    color: #343a40;
+}
+
+.title {
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+/* Time and date */
+.current-time {
+    font-size: 36px;
+    color: #2563eb;
+    margin-bottom: 10px;
+}
+
+.current-date {
+    font-size: 20px;
+    color: #6c757d;
+    font-weight: normal;
+}
